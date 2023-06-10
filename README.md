@@ -1,0 +1,1 @@
+# prolog-base-de-conocimiento
